@@ -1,0 +1,13 @@
+equipo_local,equipo_visitante,goles_local,goles_visitante
+River,San Lorenzo,1,0
+Boca,Racing,2,0
+River,Racing,3,0
+Boca,San Lorenzo,0,2
+River,Boca,2,0
+Racing,San Lorenzo,2,0
+Racing,Boca,0,1
+San Lorenzo,River,0,1
+Racing,River,0,2
+San Lorenzo,Boca,1,0
+Boca,River,1,1
+San Lorenzo,Racing,1,0
