@@ -1,12 +1,15 @@
 # Análisis Deportivo - TP OE
 
-## 📋 Visión General del Proyecto
+## Visión General del Proyecto
 Este proyecto fue desarrollado con el objetivo de procesar y analizar estadísticamente los datos de rendimiento de un torneo deportivo. A través de scripts reproducibles en Python, el sistema automatiza la lectura de métricas de partidos y genera reportes visuales.
 
 ## Integrantes(ficcticios para cumplir con las consignas):
 Nombre (utilizo los de la consigna) - ID de JIRA:
+
 **Hugo (KAN-1) - Líder y Organizador:** Responsable del repositorio, estructura del entorno y documentación del proyecto.
+
 **Paco (KAN-2) - Desarrollador Técnico:** Responsable del diseño algorítmico, procesamiento de datos y generación de gráficos estadísticos.
+
 **Luis (KAN-3) - Revisor y QA:** Responsable del control de calidad del código, seguridad de credenciales, revisión por pares (Peer Review) y gestión del flujo de integración.
 
 ## Estructura del Repositorio:
